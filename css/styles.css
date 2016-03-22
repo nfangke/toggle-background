@@ -1,0 +1,17 @@
+.black-background {
+  background-color: black;
+  color: white;
+}
+
+.white-background {
+  background-color: white;
+  color: black;
+}
+
+.clickable {
+  color: red;
+}
+
+body {
+  font-family: fantasy;
+}
